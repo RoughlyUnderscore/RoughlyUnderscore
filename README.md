@@ -1,6 +1,8 @@
 Roughly_ / ZBLL / RoughlyUnderscore / obtm
 [![wakatime](https://wakatime.com/badge/user/19138aa2-1487-421c-9561-14ecdff554f8.svg)](https://wakatime.com/@19138aa2-1487-421c-9561-14ecdff554f8)
 ===
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RoughlyUnderscore&theme=onedark)](https://github.com/RoughlyUnderscore/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoughlyUnderscore&layout=compact)](https://github.com/RoughlyUnderscore/github-readme-stats)
 Hey! :wave: I am a software developer. Having started in **2016**, I have tried coding in:
 * **Python** (moderate)
 * **HTML** (moderate)
