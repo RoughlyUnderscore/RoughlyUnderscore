@@ -18,6 +18,8 @@ I have worked with numerous popular libraries, frameworks and APIs, such as:
 * **jQuery** (novice)
 * **FXML** (moderate)
 * **Android API** (amateur)
+* **JDA** (knowledgeable)
+* **Gson** (amateur)
 * **Spigot API** (experienced)
 
 My notable works
@@ -30,7 +32,7 @@ Despite the fact that I've been a developer for 6 years, at most 3 of them have 
 
 What I do
 ===
-I am currently a freelance developer, taking commissions on developing Spigot & Paper plugins and building Minecraft servers from scratch or extending existing ones. If you are interested, hit me up!
+I am currently a freelance developer, taking commissions on developing Spigot & Paper plugins. If you are interested, hit me up!
 
 Contact me
 ===
