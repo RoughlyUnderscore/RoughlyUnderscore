@@ -1,8 +1,5 @@
 Roughly_ / ZBLL / RoughlyUnderscore / obtm
-[![wakatime](https://wakatime.com/badge/user/19138aa2-1487-421c-9561-14ecdff554f8.svg)](https://wakatime.com/@19138aa2-1487-421c-9561-14ecdff554f8)
-<br><br>
-[![My GitHub stats](https://p-github-readme-stats-roughlyunderscore.vercel.app/api?username=RoughlyUnderscore&theme=onedark)](https://github.com/RoughlyUnderscore/github-readme-stats)
-[![Top Langs](https://p-github-readme-stats-roughlyunderscore.vercel.app/api/top-langs/?username=RoughlyUnderscore&layout=compact&theme=onedark)](https://github.com/RoughlyUnderscore/github-readme-stats)<br><br>
+[![wakatime](https://wakatime.com/badge/user/19138aa2-1487-421c-9561-14ecdff554f8.svg)](https://wakatime.com/@19138aa2-1487-421c-9561-14ecdff554f8)<br><br>
 
 ===
 Hey! :wave: I am a software developer. Having started in **2016**, I have tried coding in:
@@ -38,6 +35,6 @@ I am currently a freelance developer, taking commissions on developing Spigot & 
 Contact me
 ===
 You can easily contact me in three ways:
-> - My Discord (Pluggg#5737) is easily the most effective way to contact me.
+> - My Discord (pluggg) is easily the most effective way to contact me.
 > - My mail (roughly.underscore (at) gmail.com) is also rather effective, but will probably take longer to be noticed.
 > - My SpigotMC account (https://www.spigotmc.org/members/zbll.864229/) is the least effective one, but one day I definitely will notice you.
