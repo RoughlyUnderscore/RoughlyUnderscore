@@ -1,7 +1,6 @@
-Roughly_ / ZBLL / RoughlyUnderscore / obtm
-[![wakatime](https://wakatime.com/badge/user/19138aa2-1487-421c-9561-14ecdff554f8.svg)](https://wakatime.com/@19138aa2-1487-421c-9561-14ecdff554f8)<br><br>
-
-===
+Roughly_ / ZBLL / RoughlyUnderscore / obtm<br>
+[![wakatime](https://wakatime.com/badge/user/19138aa2-1487-421c-9561-14ecdff554f8.svg)](https://wakatime.com/@19138aa2-1487-421c-9561-14ecdff554f8)<br><br><br>
+![Metrics](https://metrics.lecoq.io/RoughlyUnderscore)<br><br><br>
 Hey! :wave: I am a software developer. Having started in **2016**, I have tried coding in:
 * **Python** (moderate)
 * **HTML** (moderate)
