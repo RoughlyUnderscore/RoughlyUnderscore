@@ -1,9 +1,6 @@
 Roughly_ / ZBLL / RoughlyUnderscore<br>
 [![wakatime](https://wakatime.com/badge/user/19138aa2-1487-421c-9561-14ecdff554f8.svg)](https://wakatime.com/@19138aa2-1487-421c-9561-14ecdff554f8)<br><br><br>
 
-# TL;DR
-### My biggest project: [UnderscoreEnchants](https://github.com/RoughlyUnderscore/UnderscoreEnchants) (there are also [UnderscoreEnchants API](https://github.com/RoughlyUnderscore/UnderscoreEnchantsAPI) available in [my Maven repository](https://repo.runderscore.com/#/releases/com/roughlyunderscore/UnderscoreEnchantsAPI/2.2.0), [the self-hostable backend](https://github.com/RoughlyUnderscore/UEBackend) and a [central backend for those who don't want to host](https://ue.runderscore.com/api/v1/packs), and a VERY detailed [documentation](https://ue.runderscore.com/docs))<br><br><br>
-
 Hey! :wave: I am a software developer. Having started in **2016**, I have tried coding in:
 * **Java** (experienced)
 * **Kotlin** (experienced)
