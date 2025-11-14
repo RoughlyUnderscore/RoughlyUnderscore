@@ -1,7 +1,7 @@
-Roughly_ / ZBLL / RoughlyUnderscore<br>
+Roughly_ / discocat <br>
 [![wakatime](https://wakatime.com/badge/user/19138aa2-1487-421c-9561-14ecdff554f8.svg)](https://wakatime.com/@19138aa2-1487-421c-9561-14ecdff554f8)<br><br><br>
 
-Hey! :wave: I am a software developer. Having started in **2016**, I have tried coding in:
+Hey! :wave: I am a software developer. Having started in **2016**, I have obtained some expertise in:
 * **Java** (experienced)
 * **Kotlin** (experienced)
 * **Python** (moderate)
@@ -9,7 +9,7 @@ Hey! :wave: I am a software developer. Having started in **2016**, I have tried 
 * **CSS/SASS** (moderate)
 * **Rust** (moderate)
 
-My current primary language is **Kotlin**. I have also recently started working on a personal project in **Rust** and I intend to become proficient with **Python** at some point as well.
+My current primary language is **Kotlin**. I have also recently started working on a personal project in **Rust** and I intend to become proficient with **Python** as well.
 
 I have worked with numerous popular libraries, frameworks and APIs, such as:
 * **Spigot API** (experienced) - my specialty as of 2024/2025
@@ -19,6 +19,8 @@ I have worked with numerous popular libraries, frameworks and APIs, such as:
 * **Ktor** (knowledgeable)
 * **Retrofit** (moderate)
 * **Dagger Hilt** (moderate)
+
+As of *Q4 2025* I am dabbling into machine learning (specifically computer vision and data analysis for training models) and I plan on developing a jack-of-all-trades application for speedcubers with plenty of new powerful functionality.
 
 I am also experienced with other tools, such as:
 * **MongoDB**, **PostgreSQL**, **MySQL** and **MariaDB** (knowledgeable)
@@ -43,6 +45,7 @@ Still, I have some notable projects behind my back:
 > - [UnderscoreKillstreaks](https://github.com/RoughlyUnderscore/UnderscoreKillstreaks) - once a simple plugin that I revamped into something more professional and robust.
 > - [ULib](https://github.com/RoughlyUnderscore/ULib) - my personal library used mostly for developing Spigot/Paper plugins, but also featuring various other convenient utilities for working with Kotlin.
 > - [CubingHub](https://github.com/RoughlyUnderscore/CubingHub) - an application for speedcubers, serving as a dynamically updating algorithm base & export analyzer. The backend source code is available [here](https://github.com/RoughlyUnderscore/CubingHubBackend) and the app itself is available free of charge in [Google Play Store](https://play.google.com/store/apps/details?id=com.roughlyunderscore.cubinghub) (currently might be unavailable for download). However, as of August 2025, it is undergoing a full recode for better visual quality and a connection to the new API version, so the app itself is not currently usable ([the API](https://ch.runderscore.com/api/v2/) is!)
+> - A simple [Nonogram solver](https://github.com/RoughlyUnderscore/Nonograms) as a REST API (if you're reading this, then I haven't self-hosted it and developed a frontend just yet, but it's in the works!)
 > - I am currently working on a huge Minecraft network together with my friends. I am the lead developer and am currently in charge of developing multiple minigame plugins, alongside a lot of other minor plugins to really tie everything together.
 
 What I do
@@ -55,4 +58,3 @@ There are multiple ways to contact me:
 > - My Discord (pluggg) is the most effective way to contact me.
 > - You can also use my mailbox (me@runderscore.com), but it is still experimental and I am not 100% sure that all letters will be delivered.
 > - My mail (roughly.underscore (at) gmail.com) is also rather effective, but will probably take longer to be noticed.
-> - My SpigotMC account (https://www.spigotmc.org/members/zbll.864229/) is the least effective one, but one day I definitely will notice you.
