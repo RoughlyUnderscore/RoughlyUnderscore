@@ -1,7 +1,6 @@
-Roughly_ / discocat <br>
 [![wakatime](https://wakatime.com/badge/user/19138aa2-1487-421c-9561-14ecdff554f8.svg)](https://wakatime.com/@19138aa2-1487-421c-9561-14ecdff554f8)<br><br><br>
 
-Hey! :wave: I am a software developer. Having started in **2016**, I have obtained some expertise in:
+Hey! :wave: I am **discocat**, or **Roughly_**, a self-taught software developer. Having started in **2016**, I have obtained some expertise in:
 * **Java** (experienced)
 * **Kotlin** (experienced)
 * **Python** (moderate)
@@ -9,12 +8,12 @@ Hey! :wave: I am a software developer. Having started in **2016**, I have obtain
 * **CSS/SASS** (moderate)
 * **Rust** (moderate)
 
-My current primary language is **Kotlin**. I have also recently started working on a personal project in **Rust** and I intend to become proficient with **Python** as well.
+My current primary language is **Kotlin**. I am also learning **Rust** by working on a [project](https://github.com/RoughlyUnderscore/Leave-a-Note) and advancing in **Python** with the help of my university's course.
 
 I have worked with numerous popular libraries, frameworks and APIs, such as:
 * **Spigot API** (experienced) - my specialty as of 2024/2025
 * **Android (Jetpack Compose)** (moderate)
-* **JDA** (knowledgeablee)
+* **JDA** (knowledgeable)
 * **Gson** (knowledgeable)
 * **Ktor** (knowledgeable)
 * **Retrofit** (moderate)
